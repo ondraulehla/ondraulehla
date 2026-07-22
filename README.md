@@ -6,6 +6,7 @@ Fullstack developer at [NetGenium](https://www.netgenium.com) in Prague. Day to 
 
 ## Projects
 
+- **[agent-flight-recorder](https://github.com/ondraulehla/agent-flight-recorder)** – flight recorder for AI agents: run tasks N times in isolated E2B sandboxes, record full traces, measure pass rate, flakiness and cost, and diff trajectories
 - **[readme-ci](https://github.com/ondraulehla/readme-ci)** – run the code blocks in your README and fail CI when your quickstart breaks
 - **[agent-audit](https://github.com/ondraulehla/agent-audit)** – security auditor for AI agent configurations: MCP servers, Claude Code settings, skills and hooks
 - **[agent-lens](https://github.com/ondraulehla/agent-lens)** – drop an agent session transcript and get a visual debrief: tool-call timeline, tokens, cost, failures
