@@ -1,6 +1,6 @@
 # Ondřej Úlehla
 
-Fullstack developer at [NetGenium](https://www.netgenium.com) in Prague. Day to day I work on RAG pipelines, MCP servers and process automation for enterprise clients; in my free time I build open-source tooling for AI agents.
+Fullstack developer from Prague. Day to day I work on RAG pipelines, MCP servers and process automation for enterprise clients; in my free time I build open-source tooling for AI agents.
 
 🌐 [ulehla.dev](https://ulehla.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/ond%C5%99ej-%C3%BAlehla-287641128/)
 
