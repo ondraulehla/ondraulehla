@@ -2,7 +2,7 @@
 
 Fullstack developer from Prague. Right now most of my work is automating business processes with AI agents, above all building the harness they run on: skills, rules, subagents and scripts, MCP servers that give them tools, and RAG indexes I then wire the agents into. Plenty of straight fullstack comes with it, along with sitting down with clients to work out which problems are worth automating at all. In my free time I build open-source tooling for AI agents.
 
-🌐 [ulehla.dev](https://ulehla.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/ond%C5%99ej-%C3%BAlehla-287641128/)
+🌐 [ulehla.dev](https://ulehla.dev) 
 
 ## Projects
 
