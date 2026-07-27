@@ -11,3 +11,4 @@ Fullstack developer from Prague. Right now most of my work is automating busines
 - **[agent-audit](https://github.com/ondraulehla/agent-audit)**: security auditor for AI agent configurations, covering MCP servers, Claude Code settings, skills and hooks
 - **[agent-lens](https://github.com/ondraulehla/agent-lens)**: drop an agent session transcript and get a visual debrief with tool-call timeline, tokens, cost and failures
 - **[mcp-sandbox](https://github.com/ondraulehla/mcp-sandbox)**: run any MCP server inside an isolated E2B cloud sandbox with one command, no code changes
+- **[node-pipe-backpressure](https://github.com/ondraulehla/node-pipe-backpressure)**: measured what a dying child process does to an awaited write to its stdin, on Linux, macOS and Windows across Node 20, 22 and 24, and sent the fix upstream to the MCP TypeScript SDK
